@@ -111,5 +111,3 @@ The results highlight the potential of automated ECG analysis systems to support
 
 ---
 
-## Acknowledgements
-I would like to express my sincere gratitude to **Dr. Barath Ramkumar** for his guidance and support throughout this internship, and to **IIT Bhubaneswar** for providing the research environment and resources necessary for this work.
